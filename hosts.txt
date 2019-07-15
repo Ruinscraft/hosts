@@ -1,0 +1,10 @@
+127.0.0.1 vagdedes.com
+127.0.0.1 bstats.org
+127.0.0.1 api.curseforge.com
+127.0.0.1 curseforge.com
+127.0.0.1 dev.bukkit.org
+127.0.0.1 bukkit.org
+127.0.0.1 spigotmc.org
+127.0.0.1 spaceio.xyz
+127.0.0.1 avendria.de
+127.0.0.1 yahoo.com
