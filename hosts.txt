@@ -6,5 +6,6 @@
 127.0.0.1 bukkit.org
 127.0.0.1 spigotmc.org
 127.0.0.1 spaceio.xyz
+127.0.0.1 spaceio.de
 127.0.0.1 avendria.de
 127.0.0.1 yahoo.com
